@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Linkgems/Linkgems.iml" filepath="$PROJECT_DIR$/Linkgems/Linkgems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkgems-android/Linkgems-android.iml" filepath="$PROJECT_DIR$/Linkgems-android/Linkgems-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkgems-desktop/Linkgems-desktop.iml" filepath="$PROJECT_DIR$/Linkgems-desktop/Linkgems-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Linkgems-master.iml" filepath="$PROJECT_DIR$/.idea/Linkgems-master.iml" />
+    </modules>
+  </component>
+</project>
